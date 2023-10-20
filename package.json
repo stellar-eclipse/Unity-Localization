@@ -1,0 +1,18 @@
+{  
+  "name": "localization",
+  "displayName": "Localization",
+  "description": "",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.6.3",
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "Samples for the High Definition render pipeline",
+      "path": "Samples~/Examples"
+    }
+  ]
+}
